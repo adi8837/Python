@@ -1,0 +1,1 @@
+This folder is for assignments of Python in Ineuron FSDS course
